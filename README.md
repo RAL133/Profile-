@@ -1,5 +1,5 @@
 # **Profile**
-![a1](Image\3x4.jpg)
+![a1](Image/3x4.jpg)
 
 ### Name : Russel Aristo Lukartono `
 ### Age  : 24
