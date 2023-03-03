@@ -1,4 +1,5 @@
 # **Profile**
+![a1](Image\3x4.jpg)
 
 ### Name : Russel Aristo Lukartono `
 ### Age  : 24
@@ -20,6 +21,11 @@
   Graduated in July, 2020
   
   Industrial Engineering Bachelor Degree
+- Toulouse Business School, 2020 January 
+
+  Winter School in Big Data & Marketing Analytics
+  
+  Finished with B in ECTS grading system
 - Tunghai University 
 
   From 2022 - now 
